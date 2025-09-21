@@ -1,3 +1,5 @@
+# Added a test comment for PR
+
 #!/usr/bin/env python3
 """
 Python Terminal Simulator - Main Entry Point
@@ -74,3 +76,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
