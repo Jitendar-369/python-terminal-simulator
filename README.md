@@ -2,6 +2,8 @@
 
 A Python-based command terminal simulator that provides both CLI and web interfaces. This project implements a safe terminal environment using only Python standard library functions and select third-party modules.
 
+Live Demo: https://python-terminal-simulator.onrender.com
+
 ## Features
 
 - **CLI Mode**: Interactive command-line interface
@@ -137,3 +139,4 @@ To extend the terminal with new commands:
 ## License
 
 This project is open source and available under the MIT License.
+
